@@ -1,0 +1,15 @@
+#include<iostream.h>
+#include<conio.h>
+{
+int a;
+cout<<"Enter the a value:";
+cin>>a;
+if(a<0)
+cout<<"Given number is negative";
+else
+if(a>0)
+cout<<"Given number is positive";
+else
+cout<<"Given number is negative";
+getch();
+}
