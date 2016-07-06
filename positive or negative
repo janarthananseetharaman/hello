@@ -18,7 +18,6 @@ public class Demo {
 		{
 			System.out.println("The Given number is zero");
 		}
-		// TODO Auto-generated method stub
 
 	}
 
